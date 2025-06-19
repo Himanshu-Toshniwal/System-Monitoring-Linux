@@ -43,4 +43,22 @@ A Bash script that provides a detailed system health report and real-time resour
 
 ---
 
+## 🧪 How to Run
+
+1. Make the script executable:
+
+chmod +x system_report.sh
+
+2.  Run the script:
+
+./system_report.sh
+
+3.   To stop the real-time watch dashboard, press Ctrl + C.
+
+## 🔔 Requirements
+
+  - Bash shell
+
+  - Optional: lm-sensors, bc (install using sudo apt install lm-sensors bc)
+
 
